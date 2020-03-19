@@ -55,7 +55,7 @@ input {
 
 /* Messages */
 .message {
-  margin: 3rem 1rem 1rem 1rem;
+  margin: 1rem 1rem 1rem 3rem;
   padding: 0.5rem;
   font-size: 14px;
   line-height: 1.8em;
@@ -82,7 +82,7 @@ input {
 
 /* Input area to add a new message */
 .add-message {
-  padding: 0.5rem 1rem;
+  padding: 0.25rem 1rem;
 }
 
 .add-message__input {
