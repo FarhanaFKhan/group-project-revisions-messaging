@@ -95,14 +95,20 @@ input {
 }
 
 /* Input area to add a new message */
-.add-message {
-  padding: 0.5rem 1rem;
-}
+/*.add-message {
+}*/
 
 .add-message__input {
-  padding: 0.25em 0.5em;
+  /*padding: 0.25em 0.5em;
   border: none;
   border-radius: 2px;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
-  background: #fff;
+  background: #fff;*/
+  /*display: flex;*/
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 12rem 1rem 0.5rem;
+  background:white;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
 }
